@@ -114,11 +114,10 @@ It should produce something similar to the following:
 
 ```
 {
-  "appId": "aaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaass",
-  "displayName": "azure-cli-2021-02-25-21-53-21",
-  "name": "http://azure-cli-2021-02-25-21-53-21",
-  "password": "somepasswordherer",
-  "tenant": "43fre290-c575-4ee5-8d85-6bf15b4b81f9"
+  "appId": "4f2f7c3b-fcae-4655-bf77-c5cf5f72a20e",
+  "displayName": "azure-cli-2022-02-25-14-40-12",
+  "password": "8uZHjKudCb4HhPQ_ms0rnXgok4NmXyNokl",
+  "tenant": "2d739362-5af8-4e4b-aeb1-cab8e984aef4"
 }
 ```
 
